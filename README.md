@@ -24,8 +24,8 @@ Display the grayscale image.
 
 ## Program:
 ```python
-# Developed By: SURYA R
-# Register Number: 212220230052
+# Developed By: VETRIVEL
+# Register Number: 212221240060
 import cv2
 import matplotlib.pyplot as plt
 
